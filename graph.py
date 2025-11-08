@@ -20,7 +20,6 @@ for year in years:
     # Global usage in TWh (One trillion watt-hours)
     consumption.append(cdf.iloc[-1][str(year)])
 
-
 fig, ax1 = plt.subplots()
 
 # Plot consumption data
@@ -30,6 +29,7 @@ ax1.set_ylabel("Consumption (TWh)")
 # Create title and labels
 plt.title("Oil Consumption")
 plt.xlabel('Year')
+plt.grid(True)
 
 # Show the plot
 plt.show()

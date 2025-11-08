@@ -1,2 +1,6 @@
+# ENGR1110 Project
+The goal of this project is to advocate for relying on more sources of energy other than oil. We are estimated to have less than 50 years of proven oil reserves left.
+--
+
 These are files for my ENGR1110 group project.
-These datasets have been adopted from [here](https://www.kaggle.com/datasets/muhammadroshaanriaz/oil-reserves-and-consumption-from-1995-to-2022/data)
+The dataset has been adopted from [https://www.kaggle.com/datasets/muhammadroshaanriaz/oil-reserves-and-consumption-from-1995-to-2022/data](https://www.kaggle.com/datasets/muhammadroshaanriaz/oil-reserves-and-consumption-from-1995-to-2022/data)
