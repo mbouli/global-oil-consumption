@@ -27,7 +27,7 @@ ax1.plot(years, consumption)
 ax1.set_ylabel("Consumption (TWh)")
 
 # Create title and labels
-plt.title("Oil Consumption")
+plt.title("Global Oil Consumption from 1965 to 2018")
 plt.xlabel('Year')
 plt.grid(True)
 
